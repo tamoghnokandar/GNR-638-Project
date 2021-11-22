@@ -18,5 +18,5 @@ This project was made in a team of 6 members:
 - jupyter
 
 This [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf) was implemented.
-.
-To run the code in Google Colab click here [Code](https://colab.research.google.com/github/tamoghnokandar/GNR-638-Project)
+
+To run the code in Google Colab click here [Code](https://colab.research.google.com/github/tamoghnokandar/GNR-638-Project).
