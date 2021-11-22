@@ -19,7 +19,7 @@ This project was made in a team of 6 members:
 
 This [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf) was implemented.
 .
-├── build                   # Compiled files (alternatively `dist`)
+ build                   # Compiled files (alternatively `dist`)
 ├── docs                    # Documentation files (alternatively `doc`)
 ├── src                     # Source files (alternatively `lib` or `app`)
 ├── test                    # Automated tests (alternatively `spec` or `tests`)
