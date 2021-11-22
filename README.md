@@ -7,3 +7,14 @@ This project was made in a team of 6 members:
 - Suryadevara Sai Aneesh
 - Sanket Kumar
 - Arpit Tiwari
+
+## Libraries Required
+- python = 3.7
+- pytorch = 1.10.0
+- numpy
+- scipy
+- matplotlib
+- scikit-image
+- jupyter
+
+This [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf) was implemented.
