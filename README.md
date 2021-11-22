@@ -5,7 +5,7 @@ This project was made in a team of 6 members:
 - Parag Bajaj
 - Ansh Thamke
 - Suryadevara Sai Aneesh
-- Sanket Kumar
+- Sanket Ghyar
 - Arpit Tiwari
 
 ## Libraries Required
